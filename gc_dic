@@ -1,0 +1,21 @@
+circular-reference(v,*000):循環参照する (X)
+collecting cycle(n,*):循環の収集
+collection of cycle(n,*):循環の収集
+cycle collecting(n,*):循環収集
+cycle collection(n,*):循環の収集
+cycle-finding algorithm(n:!nams):循環検出法
+from memory(adv):メモリから
+garbage collection(n:!nams):ガベージコレクション
+garbage cycle(n,*):ガベージサイクル
+is_ref(n:!nams):is_ref
+or graphically(adv):つまり、図で示すと
+possible root(n,*):可能性があるルート
+re-compile(v,*000):再コンパイルする (X)
+refcount(n,*):refcount
+reference counting(n:!nams):参照カウント法
+reference set(n:!nams):参照集合
+running script(n,*):実行スクリプト
+user-land(n:!nams):ユーザーランド
+variable container(n,*):変数コンテナ
+xdebug(n:!nams):Xdebug
+zval(n,*):zval
