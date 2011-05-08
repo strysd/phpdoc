@@ -1,0 +1,12 @@
+There contains tools for PHPDOC.
+
+For example, translation list of terms. 
+
+Note for me:
+(git-init by git tool)
+(edit files)
+(git schedule to commit by git tool)
+(git commit by git tool)
+cd ~/phpdoc
+git remote add origin git@github.com:strysd/phpdoc.git
+git push -u origin master
