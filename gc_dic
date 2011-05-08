@@ -1,21 +1,21 @@
-circular-reference(v,*000):zŠÂQÆ‚·‚é (X)
-collecting cycle(n,*):zŠÂ‚ÌûW
-collection of cycle(n,*):zŠÂ‚ÌûW
-cycle collecting(n,*):zŠÂûW
-cycle collection(n,*):zŠÂ‚ÌûW
-cycle-finding algorithm(n:!nams):zŠÂŒŸo–@
-from memory(adv):ƒƒ‚ƒŠ‚©‚ç
-garbage collection(n:!nams):ƒKƒx[ƒWƒRƒŒƒNƒVƒ‡ƒ“
-garbage cycle(n,*):ƒKƒx[ƒWƒTƒCƒNƒ‹
+circular-reference(v,*000):å¾ªç’°å‚ç…§ã™ã‚‹ (X)
+collecting cycle(n,*):å¾ªç’°ã®åé›†
+collection of cycle(n,*):å¾ªç’°ã®åé›†
+cycle collecting(n,*):å¾ªç’°åé›†
+cycle collection(n,*):å¾ªç’°ã®åé›†
+cycle-finding algorithm(n:!nams):å¾ªç’°æ¤œå‡ºæ³•
+from memory(adv):ãƒ¡ãƒ¢ãƒªã‹ã‚‰
+garbage collection(n:!nams):ã‚¬ãƒ™ãƒ¼ã‚¸ã‚³ãƒ¬ã‚¯ã‚·ãƒ§ãƒ³
+garbage cycle(n,*):ã‚¬ãƒ™ãƒ¼ã‚¸ã‚µã‚¤ã‚¯ãƒ«
 is_ref(n:!nams):is_ref
-or graphically(adv):‚Â‚Ü‚èA}‚Å¦‚·‚Æ
-possible root(n,*):‰Â”\«‚ª‚ ‚éƒ‹[ƒg
-re-compile(v,*000):ÄƒRƒ“ƒpƒCƒ‹‚·‚é (X)
+or graphically(adv):ã¤ã¾ã‚Šã€å›³ã§ç¤ºã™ã¨
+possible root(n,*):å¯èƒ½æ€§ãŒã‚ã‚‹ãƒ«ãƒ¼ãƒˆ
+re-compile(v,*000):å†ã‚³ãƒ³ãƒ‘ã‚¤ãƒ«ã™ã‚‹ (X)
 refcount(n,*):refcount
-reference counting(n:!nams):QÆƒJƒEƒ“ƒg–@
-reference set(n:!nams):QÆW‡
-running script(n,*):ÀsƒXƒNƒŠƒvƒg
-user-land(n:!nams):ƒ†[ƒU[ƒ‰ƒ“ƒh
-variable container(n,*):•Ï”ƒRƒ“ƒeƒi
+reference counting(n:!nams):å‚ç…§ã‚«ã‚¦ãƒ³ãƒˆæ³•
+reference set(n:!nams):å‚ç…§é›†åˆ
+running script(n,*):å®Ÿè¡Œã‚¹ã‚¯ãƒªãƒ—ãƒˆ
+user-land(n:!nams):ãƒ¦ãƒ¼ã‚¶ãƒ¼ãƒ©ãƒ³ãƒ‰
+variable container(n,*):å¤‰æ•°ã‚³ãƒ³ãƒ†ãƒŠ
 xdebug(n:!nams):Xdebug
 zval(n,*):zval
