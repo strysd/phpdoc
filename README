@@ -2,9 +2,12 @@ There contains tools for PHPDOC.
 
 For example, translation list of terms. 
 
-List:
-gc_dic : Dictionary for garbage collection
-common_dic : Dictionary for general use
+Dictionary List:
+common_dic : general use
+gc_dic : garbage collection
+mysqlnd_ms_dic : mysqlnd_ms
+solr_dic : Solr
+
 
 Note for me:
 (git-init by git tool)
