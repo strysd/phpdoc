@@ -1,3 +1,4 @@
 following(a):下記の (O)
+Line termination(n,*):行の終端
 procedural(a):手続き指向の (O)
 snippet(n,*):スニペット

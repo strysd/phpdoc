@@ -1,0 +1,4 @@
+Basic Authentication(n:!nams):Basic 認証
+PEM-formatted(a):PEM 形式の (O)
+private certificate(n,*):プライベート証明書
+private key(n,*):プライベートキー

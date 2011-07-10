@@ -1,2 +1,5 @@
 Apache Solr(n:!nams):Apache Solr
+boost value(n,*):boost 値
+index time(n,*):インデキシング時間
+index-time(n,*):インデキシング時間
 solr(n:!nams):Solr
