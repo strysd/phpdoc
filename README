@@ -5,7 +5,9 @@ For example, translation list of terms.
 Dictionary List:
 common_dic : general use
 gc_dic : garbage collection
+mysqlnd_dic : mysqlnd
 mysqlnd_ms_dic : mysqlnd_ms
+openssl_dic : OpenSSL
 solr_dic : Solr
 
 

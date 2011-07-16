@@ -1,3 +1,6 @@
+available since PHP 5.3.0.(adv):PHP 5.3.0 以降で使用可能です。
+changeable(n,*):変更の可否
+changelog(n,*):変更履歴
 following(a):下記の (O)
 Line termination(n,*):行の終端
 procedural(a):手続き指向の (O)
